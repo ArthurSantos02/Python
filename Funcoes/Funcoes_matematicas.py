@@ -1,16 +1,18 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 import numpy as np
 
 def adc(a, b):
-    return a + b;
+    return a + b
 
+def sub(a, b):
+    return a - b
+    
+def mult(a, b):
+    return a * b
 
-# In[ ]:
+def div(a, b):
+    return a / b
+
 
 
 
